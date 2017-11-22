@@ -5,4 +5,5 @@ rm -rf .git
 rm README.md
 subl .
 yarn install
+yarn run build
 ```
